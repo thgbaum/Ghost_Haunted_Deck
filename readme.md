@@ -3,9 +3,9 @@
 ![Game Preview](game_preview/game_preview.png)
 
  ## Projeto Final do Curso "Advanced Course in Programming" da Universidade de Helsinki 
--> Este projeto foi desenvolvido a fim de testar compreensão de lógica de programação, uso de classes e importação de módulos em um projeto elaborado
+ # Este projeto foi desenvolvido a fim de testar compreensão de lógica de programação, uso de classes e importação de módulos em um projeto elaborado
 
--> Os templates foram obtidos a partir de material do curso em questão, disponível em: [Part 14 Programming MOOC 2025](https://programming-25.mooc.fi/part-14) 
+ Os templates foram obtidos a partir de material do curso em questão, disponível em: [Part 14 Programming MOOC 2025](https://programming-25.mooc.fi/part-14) 
 
 ## Este projeto envolveu uso de:
     -> Uso de Python; 
