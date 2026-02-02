@@ -1,11 +1,12 @@
 # GHOST HAUNTED DECK
  ## Projeto Final do Curso "Advanced Course in Programming" da Universidade de Helsinki 
+    -> Este projeto foi desenvolvido a fim de testar compreensão de lógica de programação, uso de classes e importação de módulos em um projeto elaborado
+    -> Os templates foram obtidos a partir de material do curso em questão, disponível em: https://programming-25.mooc.fi/part-14 
 
 ## Este projeto envolveu uso de:
     -> Uso de Python; 
     -> Programação Orientada a Objetos (POO);
     -> Biblioteca Pygame 
-    A fim de testar compreensão de lógica de programação no uso de classes e importação de módulos em um projeto elaborado
 
 ## Como usar:
     -> Após clonar repositório, execute o script main.py
